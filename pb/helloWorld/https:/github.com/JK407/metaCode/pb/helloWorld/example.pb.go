@@ -4,8 +4,6 @@
 // 	protoc        v3.21.12
 // source: pb/example/example.proto
 
-// package 内容格式推荐为 trpc.{app}.{server}，以 trpc 为固定前缀，标识这是一个 trpc 服务协议，app 为你的应用名，server 为你的服务进程名
-
 package helloWorld
 
 import (
